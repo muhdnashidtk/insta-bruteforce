@@ -1,2 +1,2 @@
 # insta-bruteforce
-{simple insta-bruteforce}
+{ simple insta-bruteforce }
